@@ -1,0 +1,21 @@
+.checkBoxOuter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  width: 20px;
+  height: 20px;
+}
+
+.checkBoxInner {
+  background-color: chartreuse;
+  width: 14px;
+  height: 14px;
+}
+
+.checkBoxInnerInvisible {
+  opacity: 0;
+  background-color: chartreuse;
+  width: 14px;
+  height: 14px;
+}
